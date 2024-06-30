@@ -1,24 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import { MantineProvider } from "@mantine/core";
+import CropTable from "./components/CropTable.tsx";
+import YearTable from "./components/YearTable.tsx";
+import jsonData from "./Manufac_India_Agro_Dataset.json";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <MantineProvider>
+      <div className="App">
+        <YearTable data={jsonData} />
+        <CropTable data={jsonData} />
+      </div>
+    </MantineProvider>
   );
 }
 
