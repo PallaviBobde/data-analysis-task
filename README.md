@@ -3,6 +3,10 @@
 This is build using create-react-app and uses yarn
 This can be viewed live on - [https://pallavibobde.github.io/data-analysis-task/](https://pallavibobde.github.io/data-analysis-task/)
 
+## Screenshots
+![Yearwise table](https://raw.githubusercontent.com/PallaviBobde/dat-images/main/Screenshot%202024-07-01%20at%202.46.21%E2%80%AFPM.png)
+![Cropwise table](https://raw.githubusercontent.com/PallaviBobde/dat-images/main/Screenshot%202024-07-01%20at%202.46.37%E2%80%AFPM.png)
+
 ## Getting Started
 
 ### 1. Clone the Repository
