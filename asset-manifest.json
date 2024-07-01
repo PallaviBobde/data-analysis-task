@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/data-analysis-task/static/css/main.dbb4b543.css",
+    "main.js": "/data-analysis-task/static/js/main.3e52c403.js",
+    "index.html": "/data-analysis-task/index.html",
+    "main.dbb4b543.css.map": "/data-analysis-task/static/css/main.dbb4b543.css.map",
+    "main.3e52c403.js.map": "/data-analysis-task/static/js/main.3e52c403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb4b543.css",
+    "static/js/main.3e52c403.js"
+  ]
+}
