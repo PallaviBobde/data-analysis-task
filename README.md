@@ -1,6 +1,7 @@
 # Data Analysis Agriculture data
 
 This is build using create-react-app and uses yarn
+This can be viewed live on - [https://pallavibobde.github.io/data-analysis-task/](https://pallavibobde.github.io/data-analysis-task/)
 
 ## Getting Started
 
